@@ -1,6 +1,6 @@
 # Blender 3.4.1
 # www.blender.org
-mtllib pantsir.mtl
+mtllib Pantsir.mtl
 o obbbbbb
 v 0.875000 1.155196 -5.821856
 v -0.875000 1.155196 -5.884356
